@@ -1,5 +1,5 @@
 # Code_Samples
-Coding Samples 
+Coding Samples that show my solutions for some Challenging problems
 
 **SecurityObjectClass**-look up and store Security Objects
 
