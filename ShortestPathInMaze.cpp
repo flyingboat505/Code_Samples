@@ -46,16 +46,6 @@ Solution:  (0,0),(1,0),(1,1),(1,2),(2,2),(2,3)
 
 If no path could be found, the function should return an empty list.
 
-Note:
-     - Feel free to use a text editor or IDE of your choice to do this instead.
-     - If you do, simply just copy-paste your code here when you're done.
-     - Do not change function signature.
-     - You are free to add any supporting helper functions, data types, or
-       structures you wish.
-     - You may make use of STL data structures and algorithms
-     - main function has been provided to make code run inside Rextester Web
-       IDE. It is not required to be part of the submission and will not be
-       graded.
 ******************************************************************************/
 
 #include <vector>
