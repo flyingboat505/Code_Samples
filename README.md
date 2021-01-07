@@ -5,4 +5,4 @@ Coding Samples that show my solutions for some Challenging problems
 
 **ShortestPathInMaze**-Finds the shortest path in a Maze with walls using DFS and Backtracking. 
 
-**QuoteManaget**- Inserts,finds and deletes stock quotes
+**QuoteManager**- Inserts,finds and deletes stock quotes
